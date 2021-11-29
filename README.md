@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi Nick 👋
 
-<!--
-**angryreid/angryreid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你必须保持追求幸福的勇气。
+you must to keep the courage to pursue happiness.
+あなたは幸せを追求する勇気を維持しなければなりません。
 
-Here are some ideas to get you started:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angryreid&theme=monokai)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angryreid&theme=monokai)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angryreid&theme=monokai)
+
+![](https://komarev.com/ghpvc/?username=angryreid)
