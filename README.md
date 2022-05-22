@@ -2,7 +2,7 @@
 
 你必须保持追求幸福的勇气。
 
-you must to keep the courage to pursue happiness.
+you must to keep the courage to chase your dream.
 
 あなたは幸せを追求する勇気を維持しなければなりません。
 
