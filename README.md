@@ -8,8 +8,6 @@ you must to keep the courage to chase your dream.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angryreid&theme=monokai)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angryreid&theme=monokai" />
-
 ![](https://raw.githubusercontent.com/angryreid/angryreid/main/assets/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=angryreid)
