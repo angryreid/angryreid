@@ -1,4 +1,4 @@
-### Hi Nick 👋
+# Hi Nick 👋
 
 你必须保持追求幸福的勇气。
 
@@ -8,10 +8,8 @@ you must to keep the courage to chase your dream.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=angryreid&theme=monokai)
 
-<div style="display: flex; justify-content: space-between;">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=angryreid&theme=monokai" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=angryreid&theme=monokai" />
-</div>
+![](https://raw.githubusercontent.com/angryreid/angryreid/main/assets/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=angryreid)
